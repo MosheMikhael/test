@@ -12,3 +12,4 @@
 	git commit
 	git add _fileName_
 	git commit -m "comment"
+	git status
