@@ -6,7 +6,7 @@
 	git config user.attr "value"
 ### INITIALIZATION
 	git init
-### 
+### GUI
 	gitk - стандартный gui для просмотра 
 ###
 	git commit
