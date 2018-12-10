@@ -7,7 +7,7 @@
 ### INITIALIZATION
 	git init
 ### 
-	gitk
+	gitk - стандартный gui для просмотра 
 ###
 	git commit
 	git add _fileName_
