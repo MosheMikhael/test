@@ -35,3 +35,6 @@
 	git rebase
 	git remote add origin "_git_adress_"
 	git remote add origin "_git_adress_" - загрузка на удалённый репозиторий
+	git push -u origin master
+	git push origin _new_branch_
+	git pull
