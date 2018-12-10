@@ -1,0 +1,14 @@
+	git --version
+
+### CONFIGURATION
+	git config --global user.name "AKAKii"
+	git config --global user.email "___@___.___"
+	git config user.attr "value"
+### INITIALIZATION
+	git init
+### 
+	gitk
+###
+	git commit
+	git add _fileName_
+	git commit -m "comment"
