@@ -30,3 +30,5 @@
 	git branch
 	git branch "_branch_name_"
 	git checkout -b newbranck
+	
+	git merge "_branch_name_"
