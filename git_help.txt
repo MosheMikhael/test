@@ -13,3 +13,8 @@
 	git add _fileName_
 	git commit -m "comment"
 	git status
+### LOGGING
+	git log --author="Bob"
+	git log --pretty=oneline
+	git log --pretty=format:" %h %ad | %s%d"
+	git log --pretty=format:" %h %ad | %d" --date=short
