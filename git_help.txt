@@ -31,4 +31,7 @@
 	git branch "_branch_name_"
 	git checkout -b newbranck
 	
-	git merge "_branch_name_"
+	git merge "_branch_name_" - слияние текущей ветки с указанной
+	git rebase
+	git remote add origin "_git_adress_"
+	git remote add origin "_git_adress_" - загрузка на удалённый репозиторий
