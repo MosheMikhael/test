@@ -18,3 +18,15 @@
 	git log --pretty=oneline
 	git log --pretty=format:" %h %ad | %s%d"
 	git log --pretty=format:" %h %ad | %d" --date=short
+	
+###
+	git checkout ***
+	git checkout master
+	git checkout _filename_ - вернули к сост. к посл коммиту
+
+	git reset _hashcommit_(or HEAD) _filename_
+	git revert HEAD --no-edit
+
+	git branch
+	git branch "_branch_name_"
+	git checkout -b newbranck
